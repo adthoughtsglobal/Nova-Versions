@@ -1,3 +1,4 @@
 Older versions of Nova OS.
 
-Learn more and use latest versions of Nova OS
+Learn more and use the latest versions of Nova OS:
+https://adthoughtsglobal.github.io/Nova-OS/
